@@ -1,10 +1,10 @@
-# MQTT IoT React Express
+# MQTT IoT React Node
 
 ![Front Wall](https://github.com/user-attachments/assets/c773bb4b-0480-4c07-8387-2ff702dc290b)
 
 ## IoT Serve v1.0
 
-This repository contains a monitoring and control system for microcontrollers branded as **IoT Serve** (tested with: **ESP8266**) based on IoT (protocol: **MQTT** | tested with: **HiveMQ Cloud Broker**) and a web application using the Javascript stack (**MySql**, **Express**, **React**, **NodeJs**). This source code is created solely as a base system for IoT and is designed to be compatible with **shared hosting**. As an example, I created it as a garden monitoring and control system. Free for all to use or modify. **Best Regards, Aman Jain**
+This repository contains a monitoring and control system for microcontrollers branded as **IoT Serve** (tested with: **ESP8266**) based on IoT (protocol: **MQTT** | tested with: **HiveMQ Cloud Broker**) and a web application using the Javascript stack (**MySql**, **Express**, **React**, **NodeJs**). This source code is created solely as a base system for IoT and is designed to be compatible with **shared hosting**. As an example, I created it as a garden monitoring and control system. Free for all to use or modify. **Best Regards: Aman Jain**
 
 ## Features
 
